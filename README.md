@@ -1,6 +1,7 @@
 # ISA_Summer_School_Nilanjana
 
 This repository contains the code and analysis for estimating the Hubble constant ($H_0$) using the Pantheon+SH0ES Type Ia supernova dataset, conducted as part of the ICTP ISA Summer School 2025.
+Nilanjana Bagchi Aurpa, Miranda House
 
 ## 🧪 Project Overview
 
@@ -14,13 +15,12 @@ All computations are performed using standard Python scientific libraries.
 
 ## 📁 Contents
 
-- `ISA Project.ipynb`: Main analysis notebook
-- `pantheon_shoes.csv`: Supernova dataset
+- `ISA_Project.ipynb`: Main analysis notebook
+- `pantheon_shoes.dat`: Supernova dataset
 - `plots/`: Directory for saved plots
     - `hubble_constant_omega_fit.png`
     - `hubble_residual_fit.png`
     - `hubble_low_high_fit.png`
-- `report.pdf`: Full project report (optional)
 
 ## 📊 Key Methods
 
