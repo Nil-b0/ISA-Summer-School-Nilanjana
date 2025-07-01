@@ -1,11 +1,11 @@
 # ISA_Summer_School_Nilanjana
 
-This repository contains the code and analysis for estimating the Hubble constant ($H_0$) using the Pantheon+SH0ES Type Ia supernova dataset, conducted as part of the ICTP ISA Summer School 2025.
+This repository contains the code and analysis for estimating the Hubble constant ($H_0$) using the Pantheon+SH0ES Type Ia supernova dataset, conducted as part of the  India Space Academy Astronomy and Astrophysics Summer School 2025.
 Nilanjana Bagchi Aurpa, Miranda House
 
 ## 🧪 Project Overview
 
-We fit a flat $\lambda$CDM cosmological model to observational distance modulus data to infer the best-fit value of the Hubble constant and estimate the age of the Universe. The analysis also explores:
+We fit a flat LCDM cosmological model to observational distance modulus data to infer the best-fit value of the Hubble constant and estimate the age of the Universe. The analysis also explores:
 
 - The impact of varying $\Omega_m$ on inferred cosmological parameters
 - Residual diagnostics across redshift
