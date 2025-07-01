@@ -5,11 +5,11 @@ Nilanjana Bagchi Aurpa, Miranda House
 
 ## 🧪 Project Overview
 
-We fit a flat $\Lambda$CDM cosmological model to observational distance modulus data to infer the best-fit value of the Hubble constant and estimate the age of the Universe. The analysis also explores:
+We fit a flat $\lambda$CDM cosmological model to observational distance modulus data to infer the best-fit value of the Hubble constant and estimate the age of the Universe. The analysis also explores:
 
 - The impact of varying $\Omega_m$ on inferred cosmological parameters
 - Residual diagnostics across redshift
-- Tension between low-$z$ and high-$z$ measurements of $H_0$
+- Tension between low_z and high_z measurements of $H_0$
 
 All computations are performed using standard Python scientific libraries.
 
